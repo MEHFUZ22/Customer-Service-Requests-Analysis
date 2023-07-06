@@ -248,6 +248,9 @@
       <td>(Location) - Coordinates (Latitude, Longitude)</td>
     </tr>
   </table>
+  <div class="section">
+      <h2 class="section-heading">Please click <a href="https://notebooksharing.space/view/c4e5ccc40b4017766fd3177b9e32ec6caf196bc8f6d95f88fd5babb24c459eed#displayOptions=">here</a> for the project.</h2>
+    </div>
 
 </body>
 </html>
